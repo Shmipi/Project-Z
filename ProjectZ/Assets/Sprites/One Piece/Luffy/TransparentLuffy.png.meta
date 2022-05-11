@@ -1,0 +1,4764 @@
+fileFormatVersion: 2
+guid: fb6c6d4175b5bd14db53667521e0a1be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6047436854382421403
+    second: TransparentLuffy_0
+  - first:
+      213: -933729903494388972
+    second: TransparentLuffy_1
+  - first:
+      213: 3038277293965427168
+    second: TransparentLuffy_2
+  - first:
+      213: 4945129509777985248
+    second: TransparentLuffy_3
+  - first:
+      213: -1913397142855432752
+    second: TransparentLuffy_4
+  - first:
+      213: -288111180093468347
+    second: TransparentLuffy_5
+  - first:
+      213: -2167474988661605168
+    second: TransparentLuffy_6
+  - first:
+      213: 24661279601929579
+    second: TransparentLuffy_7
+  - first:
+      213: -1518729154918926911
+    second: TransparentLuffy_8
+  - first:
+      213: -6258432666300121791
+    second: TransparentLuffy_9
+  - first:
+      213: 5929012716017187135
+    second: TransparentLuffy_10
+  - first:
+      213: -1003129070974367426
+    second: TransparentLuffy_11
+  - first:
+      213: 5586629861597542647
+    second: TransparentLuffy_12
+  - first:
+      213: -6815420079037669530
+    second: TransparentLuffy_13
+  - first:
+      213: 6909410310538692551
+    second: TransparentLuffy_14
+  - first:
+      213: -7365608338297669125
+    second: TransparentLuffy_15
+  - first:
+      213: -8526581980990355460
+    second: TransparentLuffy_17
+  - first:
+      213: -5326885106474553113
+    second: TransparentLuffy_18
+  - first:
+      213: -1301150352480116060
+    second: TransparentLuffy_19
+  - first:
+      213: -2192749683460681295
+    second: TransparentLuffy_20
+  - first:
+      213: -3593255564517631355
+    second: TransparentLuffy_21
+  - first:
+      213: -8806579472100438461
+    second: TransparentLuffy_23
+  - first:
+      213: -4731649709404350804
+    second: TransparentLuffy_24
+  - first:
+      213: -6011823932820629333
+    second: TransparentLuffy_25
+  - first:
+      213: 2393170871822121587
+    second: TransparentLuffy_26
+  - first:
+      213: -9008460895277572463
+    second: TransparentLuffy_27
+  - first:
+      213: -8707515817830144657
+    second: TransparentLuffy_28
+  - first:
+      213: 5292122851445316424
+    second: TransparentLuffy_29
+  - first:
+      213: 5443674931011132628
+    second: TransparentLuffy_30
+  - first:
+      213: 169663260389670418
+    second: TransparentLuffy_31
+  - first:
+      213: -8711120719693328870
+    second: TransparentLuffy_32
+  - first:
+      213: -2269579345907473978
+    second: TransparentLuffy_33
+  - first:
+      213: -7994743107904751592
+    second: TransparentLuffy_34
+  - first:
+      213: 7038194131702524313
+    second: TransparentLuffy_35
+  - first:
+      213: 7250918054547226449
+    second: TransparentLuffy_36
+  - first:
+      213: -1988420257681312964
+    second: TransparentLuffy_37
+  - first:
+      213: -8566449789219774159
+    second: TransparentLuffy_38
+  - first:
+      213: 3394253100888255593
+    second: TransparentLuffy_41
+  - first:
+      213: 7750936844547357561
+    second: TransparentLuffy_43
+  - first:
+      213: 8329090316980054557
+    second: TransparentLuffy_45
+  - first:
+      213: 2040745237937133396
+    second: TransparentLuffy_46
+  - first:
+      213: 6632555026711168756
+    second: TransparentLuffy_48
+  - first:
+      213: -8827813948972115967
+    second: TransparentLuffy_50
+  - first:
+      213: -8370018289110572741
+    second: TransparentLuffy_52
+  - first:
+      213: -4174262471796797319
+    second: TransparentLuffy_53
+  - first:
+      213: -7976720802282686751
+    second: TransparentLuffy_54
+  - first:
+      213: -6531436522837802920
+    second: TransparentLuffy_55
+  - first:
+      213: 2577175453391941765
+    second: TransparentLuffy_56
+  - first:
+      213: -1529439175131328976
+    second: TransparentLuffy_57
+  - first:
+      213: -931553020129310430
+    second: TransparentLuffy_58
+  - first:
+      213: 2852882637279440186
+    second: TransparentLuffy_59
+  - first:
+      213: 1666693312979626376
+    second: TransparentLuffy_60
+  - first:
+      213: -7987887944095895604
+    second: TransparentLuffy_62
+  - first:
+      213: 1263680002529261315
+    second: TransparentLuffy_63
+  - first:
+      213: 2924205945562558788
+    second: TransparentLuffy_64
+  - first:
+      213: 963299264424105043
+    second: TransparentLuffy_65
+  - first:
+      213: -7047640771694961472
+    second: TransparentLuffy_67
+  - first:
+      213: -1799041564851099910
+    second: TransparentLuffy_68
+  - first:
+      213: 680518664637081437
+    second: TransparentLuffy_69
+  - first:
+      213: 8119473322604235170
+    second: TransparentLuffy_70
+  - first:
+      213: -6567756860922237418
+    second: TransparentLuffy_71
+  - first:
+      213: 6180309595931606824
+    second: TransparentLuffy_72
+  - first:
+      213: 4822626223235767459
+    second: TransparentLuffy_74
+  - first:
+      213: -4343410968509706518
+    second: TransparentLuffy_75
+  - first:
+      213: 7831590975318601711
+    second: TransparentLuffy_76
+  - first:
+      213: -554794477816776354
+    second: TransparentLuffy_78
+  - first:
+      213: -8092493622923528155
+    second: TransparentLuffy_79
+  - first:
+      213: -3616307120944129082
+    second: TransparentLuffy_81
+  - first:
+      213: -2524287061138934970
+    second: TransparentLuffy_83
+  - first:
+      213: 9026196021329808995
+    second: TransparentLuffy_85
+  - first:
+      213: 5630294666057926664
+    second: TransparentLuffy_86
+  - first:
+      213: -6094317103592321617
+    second: TransparentLuffy_88
+  - first:
+      213: 5246347377908604871
+    second: TransparentLuffy_90
+  - first:
+      213: -5752743665144574849
+    second: TransparentLuffy_92
+  - first:
+      213: -9175523614071219355
+    second: TransparentLuffy_95
+  - first:
+      213: 1053582567188533206
+    second: TransparentLuffy_97
+  - first:
+      213: -1754087931207439935
+    second: TransparentLuffy_100
+  - first:
+      213: 6578553409887192642
+    second: TransparentLuffy_104
+  - first:
+      213: -1762635924192241724
+    second: TransparentLuffy_107
+  - first:
+      213: -4467052918117521915
+    second: TransparentLuffy_111
+  - first:
+      213: 6793585226601766462
+    second: TransparentLuffy_114
+  - first:
+      213: -3324144076961234188
+    second: TransparentLuffy_115
+  - first:
+      213: 4318708453786379352
+    second: TransparentLuffy_116
+  - first:
+      213: -5286034106804682310
+    second: TransparentLuffy_118
+  - first:
+      213: -1451244490836999937
+    second: TransparentLuffy_119
+  - first:
+      213: 4601083448580547475
+    second: TransparentLuffy_120
+  - first:
+      213: 6644709912460089923
+    second: TransparentLuffy_121
+  - first:
+      213: 5480043919803822284
+    second: TransparentLuffy_122
+  - first:
+      213: -486295083549748889
+    second: TransparentLuffy_123
+  - first:
+      213: -7548524574518753019
+    second: TransparentLuffy_124
+  - first:
+      213: 7106753418187323122
+    second: TransparentLuffy_125
+  - first:
+      213: -1229280984828937513
+    second: TransparentLuffy_126
+  - first:
+      213: 2355857366233464791
+    second: TransparentLuffy_127
+  - first:
+      213: 1005478107281304989
+    second: TransparentLuffy_128
+  - first:
+      213: -3666699747119435496
+    second: TransparentLuffy_130
+  - first:
+      213: -5003338736017303886
+    second: TransparentLuffy_132
+  - first:
+      213: 8948506230162896856
+    second: TransparentLuffy_135
+  - first:
+      213: -371385492679639582
+    second: TransparentLuffy_137
+  - first:
+      213: 7610554136737107129
+    second: TransparentLuffy_138
+  - first:
+      213: 9221981447114550345
+    second: TransparentLuffy_140
+  - first:
+      213: -7038603746795071274
+    second: TransparentLuffy_142
+  - first:
+      213: -1326658303509839531
+    second: TransparentLuffy_145
+  - first:
+      213: 5772671092703838490
+    second: TransparentLuffy_165
+  - first:
+      213: 8552238350052548103
+    second: TransparentLuffy_166
+  - first:
+      213: -3599339629288764376
+    second: TransparentLuffy_167
+  - first:
+      213: 1272583551047268408
+    second: TransparentLuffy_169
+  - first:
+      213: 3713924632787367990
+    second: TransparentLuffy_170
+  - first:
+      213: -3734160360734858535
+    second: TransparentLuffy_171
+  - first:
+      213: 6551861618917880568
+    second: TransparentLuffy_172
+  - first:
+      213: -1504062009213818606
+    second: TransparentLuffy_174
+  - first:
+      213: -7542237043428225239
+    second: TransparentLuffy_175
+  - first:
+      213: -4424610705528778242
+    second: TransparentLuffy_176
+  - first:
+      213: -5764004542562044532
+    second: TransparentLuffy_184
+  - first:
+      213: 6971472794496123005
+    second: TransparentLuffy_185
+  - first:
+      213: 6971053614546867870
+    second: TransparentLuffy_186
+  - first:
+      213: -4882721312980965364
+    second: TransparentLuffy_187
+  - first:
+      213: 3161257729891953968
+    second: TransparentLuffy_188
+  - first:
+      213: -335526467500017351
+    second: TransparentLuffy_189
+  - first:
+      213: 5169468807458897448
+    second: TransparentLuffy_191
+  - first:
+      213: -6042512029318808885
+    second: TransparentLuffy_192
+  - first:
+      213: -5890964456685100700
+    second: TransparentLuffy_193
+  - first:
+      213: -6107355998948103018
+    second: TransparentLuffy_194
+  - first:
+      213: -2976722861506032021
+    second: TransparentLuffy_195
+  - first:
+      213: 347404980099814079
+    second: TransparentLuffy_196
+  - first:
+      213: -2418698074148753626
+    second: TransparentLuffy_198
+  - first:
+      213: 2969065073141028687
+    second: TransparentLuffy_200
+  - first:
+      213: -1077590299825051827
+    second: TransparentLuffy_201
+  - first:
+      213: -8036513258947925391
+    second: TransparentLuffy_203
+  - first:
+      213: -132576884155713743
+    second: TransparentLuffy_204
+  - first:
+      213: -2474943599384296564
+    second: TransparentLuffy_206
+  - first:
+      213: -6623240073085421947
+    second: TransparentLuffy_207
+  - first:
+      213: 8430258690071183525
+    second: TransparentLuffy_208
+  - first:
+      213: 5501924648323592254
+    second: TransparentLuffy_210
+  - first:
+      213: -121873425823258665
+    second: TransparentLuffy_212
+  - first:
+      213: -4031641722415773179
+    second: TransparentLuffy_213
+  - first:
+      213: 4452914596368488876
+    second: TransparentLuffy_215
+  - first:
+      213: -4694704917630902236
+    second: TransparentLuffy_217
+  - first:
+      213: -6599000111724915781
+    second: TransparentLuffy_219
+  - first:
+      213: 6399773831681396872
+    second: TransparentLuffy_223
+  - first:
+      213: 3722956453231395717
+    second: TransparentLuffy_225
+  - first:
+      213: -4083215495937248063
+    second: TransparentLuffy_227
+  - first:
+      213: 3251638603243322826
+    second: TransparentLuffy_230
+  - first:
+      213: 8446352880721412131
+    second: TransparentLuffy_233
+  - first:
+      213: -2434469861697800784
+    second: TransparentLuffy_236
+  - first:
+      213: 2314361369039438833
+    second: TransparentLuffy_239
+  - first:
+      213: -6919343274345752569
+    second: TransparentLuffy_241
+  - first:
+      213: 4475780726590818957
+    second: TransparentLuffy_242
+  - first:
+      213: 11831495355262077
+    second: TransparentLuffy_243
+  - first:
+      213: -4020926563020108059
+    second: TransparentLuffy_244
+  - first:
+      213: 2734274863543851317
+    second: TransparentLuffy_246
+  - first:
+      213: 6854095546287118554
+    second: TransparentLuffy_247
+  - first:
+      213: 3322734453552312632
+    second: TransparentLuffy_248
+  - first:
+      213: -7496540463844892057
+    second: TransparentLuffy_250
+  - first:
+      213: 111049021568092023
+    second: TransparentLuffy_251
+  - first:
+      213: -5617569199663681312
+    second: TransparentLuffy_253
+  - first:
+      213: 3943415714658969707
+    second: TransparentLuffy_254
+  - first:
+      213: 273344716453869401
+    second: TransparentLuffy_255
+  - first:
+      213: -6769756814375689363
+    second: TransparentLuffy_260
+  - first:
+      213: 7588514097824028313
+    second: TransparentLuffy_261
+  - first:
+      213: -4463016574851449647
+    second: TransparentLuffy_262
+  - first:
+      213: -2029024687862609943
+    second: TransparentLuffy_263
+  - first:
+      213: 2106586368617289451
+    second: TransparentLuffy_265
+  - first:
+      213: 6816059106873423237
+    second: TransparentLuffy_266
+  - first:
+      213: 305681049777626375
+    second: TransparentLuffy_267
+  - first:
+      213: 3215666552685464693
+    second: TransparentLuffy_269
+  - first:
+      213: 6761896249964733743
+    second: TransparentLuffy_271
+  - first:
+      213: 1959691480936911706
+    second: TransparentLuffy_272
+  - first:
+      213: 229939014637360889
+    second: TransparentLuffy_273
+  - first:
+      213: 4064625708610956824
+    second: TransparentLuffy_274
+  - first:
+      213: 4028151139333940096
+    second: TransparentLuffy_278
+  - first:
+      213: -527986276094615291
+    second: TransparentLuffy_279
+  - first:
+      213: -4210347629909950372
+    second: TransparentLuffy_280
+  - first:
+      213: 2719288116638103183
+    second: TransparentLuffy_281
+  - first:
+      213: -4030236739944937328
+    second: TransparentLuffy_282
+  - first:
+      213: 8229208365747580348
+    second: TransparentLuffy_283
+  - first:
+      213: -3882491825586682539
+    second: TransparentLuffy_284
+  - first:
+      213: -7441658475585642933
+    second: TransparentLuffy_285
+  - first:
+      213: -1647441967463525348
+    second: TransparentLuffy_286
+  - first:
+      213: -297585572422128108
+    second: TransparentLuffy_287
+  - first:
+      213: -7385692899994122421
+    second: TransparentLuffy_288
+  - first:
+      213: 597358174151799182
+    second: TransparentLuffy_289
+  - first:
+      213: 660075306852934699
+    second: TransparentLuffy_290
+  - first:
+      213: -2367553474001709315
+    second: TransparentLuffy_297
+  - first:
+      213: -7899026455597903322
+    second: TransparentLuffy_298
+  - first:
+      213: -3385714567533045471
+    second: TransparentLuffy_299
+  - first:
+      213: 1763730987641913432
+    second: TransparentLuffy_300
+  - first:
+      213: -4560867990015954193
+    second: TransparentLuffy_301
+  - first:
+      213: 544965244943897717
+    second: TransparentLuffy_302
+  - first:
+      213: 8185590532759417180
+    second: TransparentLuffy_303
+  - first:
+      213: 2679698251756392300
+    second: TransparentLuffy_304
+  - first:
+      213: 1574098658849282160
+    second: TransparentLuffy_305
+  - first:
+      213: -4629160134387605526
+    second: TransparentLuffy_306
+  - first:
+      213: -4522206765349376094
+    second: TransparentLuffy_307
+  - first:
+      213: -3688034246815471599
+    second: TransparentLuffy_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TransparentLuffy_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1484
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e11347cfcce350800000000000000
+      internalID: 6047436854382421403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1484
+        width: 41
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ae029999ba03f0800000000000000
+      internalID: -933729903494388972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1484
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c1f3f9112a2a20800000000000000
+      internalID: 3038277293965427168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1484
+        width: 37
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4e96b611a0a440800000000000000
+      internalID: 4945129509777985248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1484
+        width: 37
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5cad9af6f3275e0800000000000000
+      internalID: -1913397142855432752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1484
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541d5be786c600cf0800000000000000
+      internalID: -288111180093468347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1484
+        width: 32
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcf7494bf49be1e0800000000000000
+      internalID: -2167474988661605168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1484
+        width: 32
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d216a9d4d975000800000000000000
+      internalID: 24661279601929579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1484
+        width: 37
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5370351e36ceae0800000000000000
+      internalID: -1518729154918926911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1484
+        width: 47
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dfa7a06a49529a0800000000000000
+      internalID: -6258432666300121791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1484
+        width: 47
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397af6e6a5184250800000000000000
+      internalID: 5929012716017187135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1484
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3984bcbc6b2412f0800000000000000
+      internalID: -1003129070974367426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1484
+        width: 49
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f87c188242b78d40800000000000000
+      internalID: 5586629861597542647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1484
+        width: 48
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f15e93c83ca61a0800000000000000
+      internalID: -6815420079037669530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_14
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1484
+        width: 49
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7841fd11823ef50800000000000000
+      internalID: 6909410310538692551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_15
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1484
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9bc11bd3a18c990800000000000000
+      internalID: -7365608338297669125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_17
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1484
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7c2d23dde7ba980800000000000000
+      internalID: -8526581980990355460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1411
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f34df73a1316b0800000000000000
+      internalID: -5326885106474553113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1411
+        width: 40
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a26c01f5a261fde0800000000000000
+      internalID: -1301150352480116060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1411
+        width: 62
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d9f3d7c9c191e0800000000000000
+      internalID: -2192749683460681295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1411
+        width: 66
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a1bb91a11322ec0800000000000000
+      internalID: -3593255564517631355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1411
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ec43f11aeb8c580800000000000000
+      internalID: -8806579472100438461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1411
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca69f5d98adc55eb0800000000000000
+      internalID: -4731649709404350804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1419
+        width: 36
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d8003cf5b19ca0800000000000000
+      internalID: -6011823932820629333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1409
+        width: 38
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af4c57a30463120800000000000000
+      internalID: 2393170871822121587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_27
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1423
+        width: 33
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e9bfb6b848bf280800000000000000
+      internalID: -9008460895277572463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1413
+        width: 35
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a3228f70b82780800000000000000
+      internalID: -8707515817830144657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1423
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b102cc1b5617940800000000000000
+      internalID: 5292122851445316424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_30
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1425
+        width: 36
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc1e970281db8b40800000000000000
+      internalID: 5443674931011132628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_31
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1417
+        width: 35
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef5fe16d3ca5200800000000000000
+      internalID: 169663260389670418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_32
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1422
+        width: 35
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4223ebd1eb1780800000000000000
+      internalID: -8711120719693328870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_33
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1421
+        width: 33
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c12f911c95d080e0800000000000000
+      internalID: -2269579345907473978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_34
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1422
+        width: 35
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818b5d65087fc0190800000000000000
+      internalID: -7994743107904751592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_35
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1420
+        width: 32
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9992e58d540bca160800000000000000
+      internalID: 7038194131702524313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_36
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1340
+        width: 32
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ff0c8bd8f60a460800000000000000
+      internalID: 7250918054547226449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1340
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33f6bc8f46b764e0800000000000000
+      internalID: -1988420257681312964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1340
+        width: 93
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131e55fbd4bdd1980800000000000000
+      internalID: -8566449789219774159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1339
+        width: 75
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6634363fca1f20800000000000000
+      internalID: 3394253100888255593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1339
+        width: 75
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b7bbf6efbd09b60800000000000000
+      internalID: 7750936844547357561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1339
+        width: 90
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aedbd838fd69370800000000000000
+      internalID: 8329090316980054557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1339
+        width: 87
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45710584bfe225c10800000000000000
+      internalID: 2040745237937133396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_48
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1339
+        width: 88
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6c950f7a19b0c50800000000000000
+      internalID: 6632555026711168756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_50
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1339
+        width: 74
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10857443cfd4d7580800000000000000
+      internalID: -8827813948972115967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_52
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1339
+        width: 78
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31aa0a56b8b7db80800000000000000
+      internalID: -8370018289110572741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1339
+        width: 32
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970de49e56a0216c0800000000000000
+      internalID: -4174262471796797319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_54
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1339
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b87b51befc4190800000000000000
+      internalID: -7976720802282686751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_55
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1340
+        width: 32
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8508d37661dab55a0800000000000000
+      internalID: -6531436522837802920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1216
+        width: 35
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580784f9b67f3c320800000000000000
+      internalID: 2577175453391941765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e0bbc6c2756cae0800000000000000
+      internalID: -1529439175131328976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 40
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22900c9b6757213f0800000000000000
+      internalID: -931553020129310430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_59
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1216
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dabe4b4a9779720800000000000000
+      internalID: 2852882637279440186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1216
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8896ba5dcb8412710800000000000000
+      internalID: 1666693312979626376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1216
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfe98a8c32552190800000000000000
+      internalID: -7987887944095895604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_63
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1216
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307758c544e798110800000000000000
+      internalID: 1263680002529261315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_64
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1216
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441775b70ddd49820800000000000000
+      internalID: 2924205945562558788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_65
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1216
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d464c3935e5d00800000000000000
+      internalID: 963299264424105043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_67
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1216
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccdf82ee00c13e90800000000000000
+      internalID: -7047640771694961472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_68
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1239
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af623ee7a358807e0800000000000000
+      internalID: -1799041564851099910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_69
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1234
+        width: 40
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5767b4be10b17900800000000000000
+      internalID: 680518664637081437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_70
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1228
+        width: 17
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a90615d7f92ea070800000000000000
+      internalID: 8119473322604235170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_71
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1222
+        width: 18
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6895bee3aad4a0800000000000000
+      internalID: -6567756860922237418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_72
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1213
+        width: 28
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ff07335ded4c550800000000000000
+      internalID: 6180309595931606824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1133
+        width: 42
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac9378aff86de240800000000000000
+      internalID: 4822626223235767459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_75
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1133
+        width: 45
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee817c8cba19b3c0800000000000000
+      internalID: -4343410968509706518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_76
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1133
+        width: 64
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef250e9f766fac60800000000000000
+      internalID: 7831590975318601711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_78
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1133
+        width: 64
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59f162ac59fc48f0800000000000000
+      internalID: -554794477816776354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_79
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1133
+        width: 63
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52877820defa1bf80800000000000000
+      internalID: -8092493622923528155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_81
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1133
+        width: 74
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbd86165db40ddc0800000000000000
+      internalID: -3616307120944129082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_83
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1133
+        width: 76
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643f2b9ca4ee7fcd0800000000000000
+      internalID: -2524287061138934970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_85
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1133
+        width: 76
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e4864657d734d70800000000000000
+      internalID: 9026196021329808995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_86
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1133
+        width: 83
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c82f0b23d22e40800000000000000
+      internalID: 5630294666057926664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_88
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1133
+        width: 78
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadcac322e2ac6ba0800000000000000
+      internalID: -6094317103592321617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_90
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1133
+        width: 88
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf5b84d425cec840800000000000000
+      internalID: 5246347377908604871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1047
+        width: 101
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ccd2bad162a20b0800000000000000
+      internalID: -5752743665144574849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_95
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1047
+        width: 101
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b931313edf9a080800000000000000
+      internalID: -9175523614071219355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_97
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1047
+        width: 137
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df01d243c31f9e00800000000000000
+      internalID: 1053582567188533206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_100
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1047
+        width: 150
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9a493f15a38a7e0800000000000000
+      internalID: -1754087931207439935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_104
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1047
+        width: 146
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c24cb877bb4b50800000000000000
+      internalID: 6578553409887192642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_107
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1047
+        width: 146
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7dd2e37fbd987e0800000000000000
+      internalID: -1762635924192241724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_111
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 962
+        width: 100
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506abb6d907d102c0800000000000000
+      internalID: -4467052918117521915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_114
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 962
+        width: 43
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e90f605c9a74e50800000000000000
+      internalID: 6793585226601766462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_115
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 962
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2c186f2944ed1d0800000000000000
+      internalID: -3324144076961234188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_116
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 962
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854e96c05722feb30800000000000000
+      internalID: 4318708453786379352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_118
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 963
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1ce498cfb34a6b0800000000000000
+      internalID: -5286034106804682310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_119
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 962
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff00b6913d42cdbe0800000000000000
+      internalID: -1451244490836999937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_120
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 962
+        width: 28
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a296d4055adf30800000000000000
+      internalID: 4601083448580547475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_121
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 962
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a53bfc570c63c50800000000000000
+      internalID: 6644709912460089923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_122
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 962
+        width: 34
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0327919e60d0c40800000000000000
+      internalID: 5480043919803822284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_123
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 964
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7619ff0b2355049f0800000000000000
+      internalID: -486295083549748889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_124
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 964
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509c08da4e04e3790800000000000000
+      internalID: -7548524574518753019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_125
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 963
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63955a49240a260800000000000000
+      internalID: 7106753418187323122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_126
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 963
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daf0221577b0fee0800000000000000
+      internalID: -1229280984828937513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_127
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 875
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df35dfeacfa1b020800000000000000
+      internalID: 2355857366233464791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_128
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 887
+        width: 47
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d2fe5e20d24fd00800000000000000
+      internalID: 1005478107281304989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_130
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 838
+        width: 108
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8117eeac1044d1dc0800000000000000
+      internalID: -3666699747119435496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_132
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 838
+        width: 92
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b69cbcade1909ab0800000000000000
+      internalID: -5003338736017303886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_135
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 838
+        width: 97
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7ba3f410b7f2c70800000000000000
+      internalID: 8948506230162896856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_137
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 845
+        width: 97
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edb812bcd298daf0800000000000000
+      internalID: -371385492679639582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_138
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 861
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc48183aae1e9960800000000000000
+      internalID: 7610554136737107129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_140
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 852
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c6188144f0bff70800000000000000
+      internalID: 9221981447114550345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_142
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 842
+        width: 102
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8db853f2bd15e90800000000000000
+      internalID: -7038603746795071274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_145
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 837
+        width: 110
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55149f84d43c69de0800000000000000
+      internalID: -1326658303509839531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_165
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 735
+        width: 58
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1147cd16c5ac1050800000000000000
+      internalID: 5772671092703838490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_166
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 736
+        width: 31
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eda59b777afa670800000000000000
+      internalID: 8552238350052548103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_167
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 735
+        width: 44
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cc1426da39c0ec0800000000000000
+      internalID: -3599339629288764376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_169
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 735
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8387d2b4fff19a110800000000000000
+      internalID: 1272583551047268408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_170
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 742
+        width: 45
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6383ddbb6c28a8330800000000000000
+      internalID: 3713924632787367990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_171
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 741
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2ed04bfe89d2cc0800000000000000
+      internalID: -3734160360734858535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_172
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 740
+        width: 46
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2bd1ddd63ecea50800000000000000
+      internalID: 6551861618917880568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_174
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 734
+        width: 36
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21966ac429f702be0800000000000000
+      internalID: -1504062009213818606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_175
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 744
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f0ba69e57945790800000000000000
+      internalID: -7542237043428225239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_176
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 744
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef111938100a892c0800000000000000
+      internalID: -4424610705528778242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_184
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 641
+        width: 43
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85f9d458642200b0800000000000000
+      internalID: -5764004542562044532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_185
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 641
+        width: 44
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70cd35f195afb060800000000000000
+      internalID: 6971472794496123005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_186
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 641
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96d44504582eb060800000000000000
+      internalID: 6971053614546867870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_187
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 641
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c086a8ae5d61d3cb0800000000000000
+      internalID: -4882721312980965364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_188
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 641
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03deaa1082b0fdb20800000000000000
+      internalID: 3161257729891953968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_189
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 641
+        width: 45
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9397beb9478f75bf0800000000000000
+      internalID: -335526467500017351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_191
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 640
+        width: 44
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ebc0acd74adb740800000000000000
+      internalID: 5169468807458897448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_192
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 640
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca7d6de25fa42ca0800000000000000
+      internalID: -6042512029318808885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_193
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 641
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46125dec9071f3ea0800000000000000
+      internalID: -5890964456685100700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_194
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 640
+        width: 43
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce8ddb3105e3ba0800000000000000
+      internalID: -6107355998948103018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_195
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 640
+        width: 42
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e062d245e80b6d0800000000000000
+      internalID: -2976722861506032021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_196
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 640
+        width: 69
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb21d002dfa32d400800000000000000
+      internalID: 347404980099814079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_198
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 640
+        width: 74
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f21779aee0f6ed0800000000000000
+      internalID: -2418698074148753626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_200
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 638
+        width: 77
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47179704fc343920800000000000000
+      internalID: 2969065073141028687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_201
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 640
+        width: 46
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d476585e451ab01f0800000000000000
+      internalID: -1077590299825051827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 561
+        width: 42
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a21bf25c1987090800000000000000
+      internalID: -8036513258947925391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_204
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 561
+        width: 45
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137787ab60ef82ef0800000000000000
+      internalID: -132576884155713743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_206
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 561
+        width: 64
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83829fb8eb37add0800000000000000
+      internalID: -2474943599384296564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_207
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 561
+        width: 64
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5867c95be368514a0800000000000000
+      internalID: -6623240073085421947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_208
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 561
+        width: 63
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c75afc9b4ef470800000000000000
+      internalID: 8430258690071183525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_210
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 561
+        width: 74
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e303b443153ca5c40800000000000000
+      internalID: 5501924648323592254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_212
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 561
+        width: 64
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7ae32d3c40f4ef0800000000000000
+      internalID: -121873425823258665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_213
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 561
+        width: 38
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a83c9c63bbc08c0800000000000000
+      internalID: -4031641722415773179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_215
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 561
+        width: 82
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca912bb9b3eebcd30800000000000000
+      internalID: 4452914596368488876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_217
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 561
+        width: 82
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420a45340ce09deb0800000000000000
+      internalID: -4694704917630902236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_219
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 561
+        width: 77
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39fd38c54ab64a0800000000000000
+      internalID: -6599000111724915781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_223
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 459
+        width: 91
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d538746090d850800000000000000
+      internalID: 6399773831681396872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_225
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 458
+        width: 91
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5830b1d4b299aa330800000000000000
+      internalID: 3722956453231395717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_227
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 458
+        width: 136
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c43a47e3218557c0800000000000000
+      internalID: -4083215495937248063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_230
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 458
+        width: 136
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdf34ce414202d20800000000000000
+      internalID: 3251638603243322826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_233
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 458
+        width: 136
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204ffeb139773570800000000000000
+      internalID: 8446352880721412131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_236
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 458
+        width: 136
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5bb152f86073ed0800000000000000
+      internalID: -2434469861697800784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_239
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 458
+        width: 77
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f38b7337634e1020800000000000000
+      internalID: 2314361369039438833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_241
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 375
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70812a5c3fd89ff90800000000000000
+      internalID: -6919343274345752569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_242
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 375
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a4cfc6bda2d1e30800000000000000
+      internalID: 4475780726590818957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_243
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 375
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74efcdaea80a2000800000000000000
+      internalID: 11831495355262077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_244
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 375
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee014f389cc238c0800000000000000
+      internalID: -4020926563020108059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_246
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 375
+        width: 67
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5399fc7608812f520800000000000000
+      internalID: 2734274863543851317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_247
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 375
+        width: 53
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d705b593ae1f50800000000000000
+      internalID: 6854095546287118554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_248
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 375
+        width: 53
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ffe28169bc1e20800000000000000
+      internalID: 3322734453552312632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_250
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 375
+        width: 58
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ee20aa20f6f790800000000000000
+      internalID: -7496540463844892057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_251
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 375
+        width: 60
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777883b2f768a8100800000000000000
+      internalID: 111049021568092023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_253
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 375
+        width: 56
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0fed873926a02b0800000000000000
+      internalID: -5617569199663681312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_254
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 375
+        width: 45
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e0f903b3d9b630800000000000000
+      internalID: 3943415714658969707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_255
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 375
+        width: 33
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577675429d1bc300800000000000000
+      internalID: 273344716453869401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_260
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 308
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636b578b0efc02a0800000000000000
+      internalID: -6769756814375689363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_261
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 308
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99658d5cd51df4960800000000000000
+      internalID: 7588514097824028313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_262
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 308
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc7c4d321e2012c0800000000000000
+      internalID: -4463016574851449647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_263
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 308
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7837febc477d3e0800000000000000
+      internalID: -2029024687862609943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_265
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 308
+        width: 67
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be61d1e14291c3d10800000000000000
+      internalID: 2106586368617289451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_266
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 308
+        width: 53
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585b14905a1879e50800000000000000
+      internalID: 6816059106873423237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_267
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 308
+        width: 53
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d50929b4ffd3400800000000000000
+      internalID: 305681049777626375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_269
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 308
+        width: 58
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c0cec31b750ac20800000000000000
+      internalID: 3215666552685464693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_271
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 308
+        width: 60
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25a13330d417dd50800000000000000
+      internalID: 6761896249964733743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_272
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 308
+        width: 56
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a539a9ed409323b10800000000000000
+      internalID: 1959691480936911706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_273
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 308
+        width: 45
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f69677c058e03300800000000000000
+      internalID: 229939014637360889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_274
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 308
+        width: 33
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2da2fb83786830800000000000000
+      internalID: 4064625708610956824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_278
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 219
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a5918e1ed6e730800000000000000
+      internalID: 4028151139333940096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_279
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 219
+        width: 33
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501691f77473ca8f0800000000000000
+      internalID: -527986276094615291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_280
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 219
+        width: 33
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c504f425327d195c0800000000000000
+      internalID: -4210347629909950372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_281
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 219
+        width: 33
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b72a722adcb520800000000000000
+      internalID: 2719288116638103183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_282
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 219
+        width: 35
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0988ad2c909b118c0800000000000000
+      internalID: -4030236739944937328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_283
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 219
+        width: 41
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdae0f8865043270800000000000000
+      internalID: 8229208365747580348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_284
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 219
+        width: 44
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5554c84414e9e1ac0800000000000000
+      internalID: -3882491825586682539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_285
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 219
+        width: 46
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e51f64b0be9b890800000000000000
+      internalID: -7441658475585642933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_286
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 219
+        width: 42
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c141445524c1329e0800000000000000
+      internalID: -1647441967463525348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_287
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 219
+        width: 43
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e6f71af73cedbf0800000000000000
+      internalID: -297585572422128108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_288
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 219
+        width: 40
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47c9b3407fb08990800000000000000
+      internalID: -7385692899994122421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_289
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 219
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e817efd281e3a4800800000000000000
+      internalID: 597358174151799182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_290
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 219
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24e9fd8efe092900800000000000000
+      internalID: 660075306852934699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_297
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 145
+        width: 35
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6d263c8a2c42fd0800000000000000
+      internalID: -2367553474001709315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_298
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6229caa1a45016290800000000000000
+      internalID: -7899026455597903322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_299
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 145
+        width: 39
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d3530a868301d0800000000000000
+      internalID: -3385714567533045471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_300
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 146
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ceb51df70a7810800000000000000
+      internalID: 1763730987641913432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_301
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 146
+        width: 46
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe236a34aba84b0c0800000000000000
+      internalID: -4560867990015954193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_302
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 146
+        width: 48
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57490dfb00b109700800000000000000
+      internalID: 544965244943897717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_303
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 146
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51fced683f099170800000000000000
+      internalID: 8185590532759417180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_304
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 146
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fcc21cc53303520800000000000000
+      internalID: 2679698251756392300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_305
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 146
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078512ae36258d510800000000000000
+      internalID: 1574098658849282160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_306
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 146
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef5d65526be1cfb0800000000000000
+      internalID: -4629160134387605526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_307
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 146
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af6b7618e4ed31c0800000000000000
+      internalID: -4522206765349376094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentLuffy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 882
+        height: 1558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118a61f746871dcc0800000000000000
+      internalID: -3688034246815471599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

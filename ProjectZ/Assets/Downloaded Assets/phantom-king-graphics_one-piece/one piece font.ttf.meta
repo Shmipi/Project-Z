@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8da28f3433887da4f9cf27c822e71efa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ONE PIECE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0f4edbcf1fddf5c4385334ab2b58b430, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
